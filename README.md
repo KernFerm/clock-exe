@@ -23,3 +23,7 @@ Once the download is complete, navigate to the location where you saved the `clo
 `Double-click` the `clock.exe` file to run it.
 
 The `Clock` GUI window will open, displaying the result of a beautiful digital clock.
+
+## Downlaod the Exe Application
+
+[Clock](https://github.com/KernFerm/clock/releases/tag/CLOCK)

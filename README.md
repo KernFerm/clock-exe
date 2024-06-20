@@ -3,7 +3,7 @@
 - Overview
 Clock is a utility tool that allows users to display a fancy digital clock on their Windows systems with a simple graphical user interface (GUI).
 
-## Downlaod the Exe Application
+## Download the Exe Application
 
 [Clock](https://github.com/KernFerm/clock/releases/tag/CLOCK)
 
